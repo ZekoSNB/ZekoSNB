@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZekoSNB
-- 👀 I’m interested in Back-end and software development
+- 👀 I’m interested in games and software engineering
 - 🌱 I’m currently learning Flutter, Python
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me-- Mail: maros3845@gmail.com 
+- 📫 How to reach me-- Mail: maros3845@gmail.com, Instagram: _.marosi._  
 
 <!---
 ZekoSNB/ZekoSNB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
