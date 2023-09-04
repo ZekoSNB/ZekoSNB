@@ -5,7 +5,6 @@
 - 📚 Studying **computer science** here in Slovakia
 - 📫 You can reach me via my e-mail <maros3845@gmail.com>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs?si=8207aa78476b4435)
 
 [![instagram](https://badgen.net/badge/Instagram/@_ozeko/E1306C)](https://www.instagram.com/_ozeko/) 
 [![spotify](https://badgen.net/badge/Spotify/Maroš/1DB954)](https://open.spotify.com/user/maros384?si=8633a2cdd0864bba)  
