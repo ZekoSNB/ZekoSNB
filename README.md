@@ -4,6 +4,7 @@
 - 👀 I’m interested in Programming and Computer Science
 - 📚 Studying **computer science** here in Slovakia
 - 📫 You can reach me via my e-mail <maros3845@gmail.com>
+- 🌐 or Visit me via [!][my website](https://ozeko.tech)
 
 
 [![instagram](https://badgen.net/badge/Instagram/@_ozeko/E1306C)](https://www.instagram.com/_ozeko/) <br>
